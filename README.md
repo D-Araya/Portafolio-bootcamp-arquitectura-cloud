@@ -1,6 +1,6 @@
 # ☁️ Fundamentos de Arquitectura Cloud
 
-Repositorio oficial del bootcamp de Arquitectura Cloud.
+Repositorio de actividades del bootcamp de Arquitectura Cloud.
 Este programa de 11 módulos cubre desde los fundamentos hasta arquitecturas serverless y microservicios.
 
 ## 📚 Contenido del Programa
@@ -163,4 +163,3 @@ Este programa de 11 módulos cubre desde los fundamentos hasta arquitecturas ser
 - [ ] Módulo 11: Empleabilidad
 
 ---
-**Generado automáticamente:** $(date +%Y-%m-%d)
