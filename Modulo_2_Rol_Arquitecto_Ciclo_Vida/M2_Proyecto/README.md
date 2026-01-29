@@ -414,26 +414,6 @@ docker-compose ps postgres
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es parte del portafolio académico de **Fundamentos de Arquitectura Cloud**.
-
-**Institución**: [Tu Institución]  
-**Módulo**: Módulo 2 - Rol del Arquitecto en el Ciclo de Vida  
-**Proyecto**: M2 - Sistema de Reservas Cloud  
-**Fecha**: Enero 2026
-
----
-
-## 🙏 Agradecimientos
-
-- Equipo docente del curso de Arquitectura Cloud
-- Comunidad de FastAPI y PostgreSQL
-- Documentación de Docker y NGINX
-- Comunidad open source
-
----
-
 <div align="center">
 
 **[⬆ Volver arriba](#sistema-de-reservas-en-la-nube---arquitectura-de-microservicios)**
