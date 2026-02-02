@@ -433,3 +433,9 @@ Made with ❤️ using FastAPI, Docker, PostgreSQL
 *Enero 2026*
 
 </div>
+
+---
+
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M2_AE4_Pilares_Fundamentales/README.md) | [Actividad Siguiente →](../../Modulo_3_Fundamentos_Arquitectura_Cloud/M3_AE1_Intro_Cloud/README.md)
+
+---
