@@ -18,7 +18,6 @@
 - [Entregables](#-entregables)
 - [Tecnologías y Herramientas](#-tecnologías-y-herramientas)
 - [Referencias](#-referencias)
-- [Autor](#-autor)
 
 ---
 
